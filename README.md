@@ -45,7 +45,8 @@ I also have basic knowledge of assembly (mainly x86 and AVX / SSE).
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shadow78390@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCCJ-U2P_K6lPvbALi5WZyng)
 
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) Shiruba#3431
+
 [The Sound Resource](https://www.sounds-resource.com/submitter/Shiruba/)
 
-Discord : Shiruba#3431
 
