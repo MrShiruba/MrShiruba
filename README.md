@@ -2,8 +2,6 @@
 Hello, I’m Shiruba. I’m interested in software engineering. I'd like to be a back-end developer.
 I like studying Japanese / 日本語 in my free time (currently at JLPT N3 / B1 level).
 
-Thanks to [xelaco](https://github.com/xelaco) for recommending me this website.
-
 ## Skills
 
 ### Programming languages
