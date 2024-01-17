@@ -40,6 +40,13 @@ Basic knowledge of assembly (mainly x86 and AVX / SSE).
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
+## Examples projects I made
+
+#### [JLPTExplorer](https://jlptexplorer.vidalahub.fr/), a website to learn Japanese with video games.
+- Front-end made with ReactJS
+- Back-end made with NodeJS and ExpressJS to build a REST API
+- Use of a MongoDB database to store the japanese grammar
+
 
 ## How to reach me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shadow78390@gmail.com)
