@@ -1,6 +1,5 @@
 ## About me
-Hello, I’m Shiruba. I’m interested in software engineering. I'd like to be a back-end developer.
-I like studying Japanese / 日本語 in my free time (currently at JLPT N3 / B1 level).
+Hello, I’m Shiruba. I’m interested in software engineering. I like studying Japanese / 日本語 in my free time (currently at JLPT N3 / B1 level).
 
 ## Skills
 
@@ -38,14 +37,6 @@ Basic knowledge of assembly (mainly x86 and AVX / SSE).
 ### Languages / Tools I'd like to learn
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-
-## Examples projects I made
-
-#### [JLPTExplorer](https://jlptexplorer.vidalahub.fr/), a website to learn Japanese with video games.
-- Front-end made with ReactJS
-- Back-end made with NodeJS and ExpressJS to build a REST API
-- Use of a MongoDB database to store the japanese grammar
 
 
 ## How to reach me
